@@ -1,0 +1,13 @@
+.container {
+	margin: 1rem;
+	border: 1px solid red;
+	padding: 1rem;
+	width: 50rem;
+	cursor: pointer;
+}
+.title {
+	display: flex;
+	justify-content: space-between;
+	font-size: 20px;
+	padding-bottom: 1rem;
+}
